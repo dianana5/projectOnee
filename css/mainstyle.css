@@ -1,0 +1,238 @@
+
+
+
+nav {
+    text-align: center;
+    background-color: rgb(88, 45, 88);
+}
+
+
+nav a {
+    font-family: "Rokkitt", serif;  
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    color: plum;
+    letter-spacing: 3px;
+    margin-right: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 8px dashed #ffffff;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.corner-gif{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 122px;
+    height: auto;
+    border: none;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Rokkitt", serif;  
+    font-weight: 600;
+}
+
+h1 a {
+    color: grey;
+    font-size: 37px;
+}
+
+p {
+    font-family: "Rokkitt", serif;  
+    font-weight: 400;
+    font-size: 19px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: plum;
+}
+
+
+footer a {
+    font-family: "Rokkitt", serif; 
+    font-weight: 600;
+    font-size: 16px;
+    color: rgb(88, 45, 88);
+    margin-right: 20px;
+}
+
+body {
+    background-color: lavender;
+}
+
+/* THIS IS INSPO PAGE NOW */
+
+#vivienne {
+   padding: 10px;
+}
+
+#vivienne a {
+    font-family: "Rokkitt", serif; 
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(61, 15, 104);
+}
+
+#bags {
+    padding: 10px;
+}
+
+#bags a {
+    font-family: "Rokkitt", serif; 
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(61, 15, 104);
+}
+
+#comics {
+    padding: 10px;
+}
+
+#comics a {
+    font-family: "Rokkitt", serif; 
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(61, 15, 104);
+}
+
+
+/* THIS IS FIVE PAGE NOW */
+
+#listing {
+    column-gap: 50px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+
+#dish {
+    display: block;
+    border-bottom-style: double;
+    border-bottom-width: 8px;
+    border-left-style: double;
+    border-left-width: 8px;
+    border-right-style: double;
+    border-right-width: 8px;
+    border-top-style: double;
+    border-top-width: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-left-color: #ffffff;
+    border-right-color: #ffffff;
+    border-top-color: #ffffff;
+    border-bottom-color: #ffffff;
+}
+
+
+
+ol li {
+    font-family: "Rokkitt", serif; 
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration: none;
+    color: rgb(61, 15, 104);
+}
+
+
+
+
+
+
+
+ul li a {
+    font-family: "Rokkitt", serif; 
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration: none;
+    color: rgb(61, 15, 104);
+}
+
+
+
+
+
+
+
+
+
+.cat-box {
+    border: 2px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(200, 165, 232);
+    margin: 20px auto;
+}
+
+dl {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+dt {
+    text-align: center;
+    width: 100%;
+}
+
+dd {
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
